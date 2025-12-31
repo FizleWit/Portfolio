@@ -1,4 +1,0 @@
-baseURL = 'https://fizlewit.github.io/portfolio/'
-languageCode = 'en-us'
-title = 'My Portfolio Site'
-theme = 're-terminal'

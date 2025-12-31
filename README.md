@@ -1,3 +1,5 @@
 # Portfolio
 Github IO portfolio website
-n
+
+#start server
+hugo server
