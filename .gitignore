@@ -1,2 +1,6 @@
 #created with dev build of hugo site
 .hugo_build.lock
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
