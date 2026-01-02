@@ -1,11 +1,14 @@
 ---
-title: "CV"
+title: "BlogPost 01"
 date: 2025-12-31
 draft: false
 
 tags: ["homelab", "personal development", "projects"]
-showAuthor: false
----
-Download Resume [HERE](files/resume.pdf)
 
-stuferone
+---
+
+start blog
+
+## Why start blog
+
+happy
