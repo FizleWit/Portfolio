@@ -2,6 +2,7 @@
 title: "Setting up Jellyfin"
 date: 2025-12-21
 draft: false
+weight: 1
 
 showEdit: false
 showTaxonomies: false
